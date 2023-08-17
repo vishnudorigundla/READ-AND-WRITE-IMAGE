@@ -1,4 +1,4 @@
-# READ AND WRITE AN IMAGE
+[# READ AND WRITE AN IMAGE
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
 i) Read, display, and write an image.
@@ -79,3 +79,4 @@ v) #To cut and paste portion of image
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
+](https://github.com/Dhanudhanaraj/READ-AND-WRITE-IMAGE)https://github.com/Dhanudhanaraj/READ-AND-WRITE-IMAGE
