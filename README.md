@@ -19,9 +19,11 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-### Developed By : D.vishnu vardhan reddy
-### Register Number : 212221230023
-i) #To Read,display the image
+```
+Developed By : D.vishnu vardhan reddy
+Register Number : 212221230023
+```
+#### To Read,display the image
 ```
 import cv2
 color_img=cv2.imread('ram.jpg',1)
@@ -30,7 +32,7 @@ cv2.waitKey(0)
 
 
 ```
-ii) #To write the image
+### To write the image
 ```
 import cv2
 color_img=cv2.imread('ram.jpg',1)
@@ -40,7 +42,7 @@ cv2.waitKey(0)
 
 
 ```
-iii) #Find the shape of the Image
+### Find the shape of the Image
 ```
 
 import cv2
@@ -49,7 +51,7 @@ color_img=cv2.imread('ram.jpg',1)
 print(color_img.shape)
 
 ```
-iv) #To access rows and columns
+### To access rows and columns
 
 ```
 import cv2
@@ -64,7 +66,7 @@ cv2.waitKey(0)
 
 
 ```
-v) #To cut and paste portion of image
+### To cut and paste portion of image
 ```
 import cv2
 color_image=cv2.imread('ram.jpg',-1)
